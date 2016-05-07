@@ -1,6 +1,6 @@
 /**
 * This is a feature 1 file that is specific to the feature.
-* I need to put this sentence here to complete the commit.
+* I need to put this sentence here to complete the commit - small fix
 */
 public Feature_1
 {
